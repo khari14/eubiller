@@ -3,7 +3,7 @@ Bill generator for Travel Card, Car Insurance, Mobile recharges, Electricity, Br
 
 This portal enables the outline of for eubiller.com website build. THis website is useful for any resident in EU (UK and EEA members) to pay their bills in multiple currencies. 
 
-Currencies involved in this Website/Android/iOS:
+Currencies involved in eubiller (Website/iOS/Android):
 
 |    Country    |   Currency    | Currency Code |    Symbol     |
 | ------------- | ------------- | ------------- | ------------- |
